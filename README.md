@@ -1,2 +1,2 @@
 # Pensamento-Computacional2022
-aprender sobre programação
+*aprender sobre programação*
